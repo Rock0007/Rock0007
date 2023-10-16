@@ -9,8 +9,8 @@ Hey there! I'm an ambitious and driven undergraduate student on a mission to exc
 🌟 If you share my passion for technology and are interested in collaborating with a motivated and proactive undergraduate student, I invite you to connect with me. Let's explore opportunities where we can create meaningful impact together.
 
 ### 🛠️ Tech Stack
-- Languages: Python, Java, JavaScript
-- Front-end: HTML, CSS, Bootstrap-5, Tailwind, React
+- Languages: JavaScript
+- Front-end: HTML, CSS, Tailwind, React
 - Back-end: Node.js, Express
-- Databases: SQL, MongoDB, Firebase
-- Tools: Git, VS Code, Docker, Postman etc..
+- Databases: MongoDB
+- Tools: Git, VS Code, Postman
