@@ -21,10 +21,10 @@ I'm an ambitious and driven undergraduate student pursuing my Bachelor of Techno
 [![Java](https://img.shields.io/badge/Java-★★★☆☆-red)](https://www.java.com/)
 
 [![HTML](https://img.shields.io/badge/HTML-★★★★☆-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-★★★☆☆-purple)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.shields.io/badge/React-★★★☆☆-lightgrey)](https://reactjs.org/)
+[![CSS](https://img.shields.io/badge/CSS-★★★★☆-purple)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/React-★★★★☆-lightgrey)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-★★★★☆-green)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-★★★☆☆-brightgreen)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-★★★★☆-brightgreen)](https://www.mongodb.com/)
 
 ## 📫 Let's Connect!
-- LinkedIn: [Your Name](https://www.linkedin.com/in/askapil07/)
+- LinkedIn: [A S Kapil](https://www.linkedin.com/in/askapil07/)
