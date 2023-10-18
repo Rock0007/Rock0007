@@ -13,8 +13,7 @@ I'm an ambitious and driven undergraduate student pursuing my Bachelor of Techno
 - **Tools:** Git, VS Code, Postman, Docker
 
 ## 🧠 My Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username/github-readme-stats)
+![Your GitHub stats](https://tiny.one/readme-stats)
 
 ## 🛠️ Tech Stack
 [![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-yellow)](https://www.javascript.com/)
@@ -28,7 +27,5 @@ I'm an ambitious and driven undergraduate student pursuing my Bachelor of Techno
 [![MongoDB](https://img.shields.io/badge/MongoDB-★★★☆☆-brightgreen)](https://www.mongodb.com/)
 
 ## 📫 Let's Connect!
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-name/)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- LinkedIn: [A S Kapil]([https://www.linkedin.com/in/your-name/](https://www.linkedin.com/in/askapil07/))
 
-Feel free to reach out if you share my passion for technology and are interested in collaboration. Let's create a meaningful impact together! 🌟
