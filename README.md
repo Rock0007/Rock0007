@@ -17,7 +17,7 @@ I'm an ambitious and driven undergraduate student pursuing my Bachelor of Techno
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50" height="50"/>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MongoDB_Logo.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MongoDB_Logo.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.liblogo.com%2Fimg-logo%2Fmo429m6b7-mongodb-logo-mongodb-original-wordmark-logo-free-icon-of-devicon.png&tbnid=fzMZFE48ZXJMaM&vet=12ahUKEwiawvrRhv-BAxUJQWwGHXWyD6sQMygEegQIARBZ..i&imgrefurl=https%3A%2F%2Fwww.liblogo.com%2Flib%2Fmongodb-logo.html&docid=NmCYHwHYhrYoEM&w=880&h=880&q=mongodb%20logo%20src%20link&ved=2ahUKEwiawvrRhv-BAxUJQWwGHXWyD6sQMygEegQIARBZ" alt="MongoDB" width="50" height="50"/>
   <img src="https://firebase.google.com/images/brand-guidelines/logo-vertical.png" alt="Firebase" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Mysql-circle.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50" height="50"/>
