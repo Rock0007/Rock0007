@@ -4,8 +4,8 @@
 
 ### 🌟 Languages & Tools
 - **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-yellow), ![Python](https://img.shields.io/badge/Python-★★★★☆-blue), ![Java](https://img.shields.io/badge/Java-★★★☆☆-red)
-- **Front-end:** HTML, CSS, Tailwind, React, Bootstrap-5
-- **Back-end:** Node.js, Express
+- **Front-end:** HTML, CSS, Js, Tailwind, React, Bootstrap-5
+- **Back-end:** Node, Express
 - **Databases:** MongoDB, Firebase, MySQL
 - **Tools:** Git, VS Code, Postman, Docker
 
