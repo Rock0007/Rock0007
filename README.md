@@ -1,16 +1,34 @@
-Hey there! I'm an ambitious and driven undergraduate student on a mission to excel in Computer Science. Currently pursuing my Bachelor of Technology degree, I'm deeply passionate about the realms of IoT, Cybersecurity, and Blockchain Technology.
+# 👩‍💻 Hello World! I'm [Your Name]
 
-🚀 Throughout my academic journey, I've been actively engaged in honing my skills through web development, tackling coding challenges, completing online courses, and embarking on personal projects. I thrive in open-source environments where I've had the privilege to collaborate with diverse teams, fostering my problem-solving abilities and nurturing my creativity.
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green) [![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username) [![GitHub](https://img.shields.io/github/license/your-username/your-repository)](https://github.com/your-username/your-repository/blob/main/LICENSE)
 
-🧠 My thirst for knowledge is unquenchable, and I make it a point to stay updated with emerging trends in the ever-evolving world of technology. I strongly believe in the power of collaboration, and I relish the opportunity to work with like-minded individuals to solve complex problems. 
+## 🚀 About Me
+I'm an ambitious and driven undergraduate student pursuing my Bachelor of Technology degree in Computer Science. My passion lies in the realms of IoT, Cybersecurity, and Blockchain Technology. I thrive in open-source environments, collaborating with diverse teams, and solving complex problems.
 
-💡 Armed with strong communication and critical thinking skills, I approach challenges with creativity and innovation, always striving to make a meaningful impact. I'm constantly seeking opportunities to expand my skill set and learn from the experiences of professionals and experts in the field.
+### 🌟 Skills & Interests
+- **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-yellow), ![Python](https://img.shields.io/badge/Python-★★★★☆-blue), ![Java](https://img.shields.io/badge/Java-★★★☆☆-red)
+- **Front-end:** HTML, CSS, Tailwind, React, Bootstrap-5
+- **Back-end:** Node.js, Express
+- **Databases:** MongoDB, Firebase, MySQL
+- **Tools:** Git, VS Code, Postman, Docker
 
-🌟 If you share my passion for technology and are interested in collaborating with a motivated and proactive undergraduate student, I invite you to connect with me. Let's explore opportunities where we can create meaningful impact together.
+## 🧠 My Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username/github-readme-stats)
 
-### 🛠️ Tech Stack
-- Languages: JavaScript, Python, Java
-- Front-end: HTML, CSS, Tailwind, React, Bootstrap-5
-- Back-end: Node.js, Express
-- Databases: MongoDB, Firebase, MySQL
-- Tools: Git, VS Code, Postman, Docker
+## 🛠️ Tech Stack
+[![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-yellow)](https://www.javascript.com/)
+[![Python](https://img.shields.io/badge/Python-★★★★☆-blue)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-★★★☆☆-red)](https://www.java.com/)
+
+[![HTML](https://img.shields.io/badge/HTML-★★★★☆-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-★★★☆☆-purple)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/React-★★★☆☆-lightgrey)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-★★★★☆-green)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-★★★☆☆-brightgreen)](https://www.mongodb.com/)
+
+## 📫 Let's Connect!
+- LinkedIn: [Your Name](https://www.linkedin.com/in/your-name/)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+Feel free to reach out if you share my passion for technology and are interested in collaboration. Let's create a meaningful impact together! 🌟
