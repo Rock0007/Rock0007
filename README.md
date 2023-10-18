@@ -1,6 +1,6 @@
 # 👩‍💻 Hello World! I'm [Your Name]
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green) [![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username) [![GitHub](https://img.shields.io/github/license/your-username/your-repository)](https://github.com/your-username/your-repository/blob/main/LICENSE)
+![Profile Views](https://komarev.com/ghpvc/?username=rock0007&color=green) [![GitHub followers](https://img.shields.io/github/followers/rock0007?style=social)](https://github.com/rock0007) 
 
 ## 🚀 About Me
 I'm an ambitious and driven undergraduate student pursuing my Bachelor of Technology degree in Computer Science. My passion lies in the realms of IoT, Cybersecurity, and Blockchain Technology. I thrive in open-source environments, collaborating with diverse teams, and solving complex problems.
@@ -13,7 +13,7 @@ I'm an ambitious and driven undergraduate student pursuing my Bachelor of Techno
 - **Tools:** Git, VS Code, Postman, Docker
 
 ## 🧠 My Stats
-![Your GitHub stats](https://tiny.one/readme-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rock0007&show_icons=true&theme=radical)
 
 ## 🛠️ Tech Stack
 [![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-yellow)](https://www.javascript.com/)
@@ -27,5 +27,4 @@ I'm an ambitious and driven undergraduate student pursuing my Bachelor of Techno
 [![MongoDB](https://img.shields.io/badge/MongoDB-★★★☆☆-brightgreen)](https://www.mongodb.com/)
 
 ## 📫 Let's Connect!
-- LinkedIn: [A S Kapil]([https://www.linkedin.com/in/your-name/](https://www.linkedin.com/in/askapil07/))
-
+- LinkedIn: [Your Name](https://www.linkedin.com/in/askapil07/)
