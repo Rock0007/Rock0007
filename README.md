@@ -6,7 +6,7 @@
 I'm an ambitious and driven undergraduate student pursuing my Bachelor of Technology degree in Computer Science. My passion lies in the realms of IoT, Cybersecurity, and Blockchain Technology. I thrive in open-source environments, collaborating with diverse teams, and solving complex problems.
 
 ### 🌟 Skills & Interests
-- **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-yellow), ![Python](https://img.shields.io/badge/Python-★★★★☆-blue), ![Java](https://img.shields.io/badge/Java-★★★☆☆-red)
+- **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-yellow), ![Python](https://img.shields.io/badge/Python-★★★☆☆-blue), ![Java](https://img.shields.io/badge/Java-★★★☆☆-red)
 - **Front-end:** HTML, CSS, Tailwind, React, Bootstrap-5
 - **Back-end:** Node.js, Express
 - **Databases:** MongoDB, Firebase, MySQL
@@ -17,7 +17,7 @@ I'm an ambitious and driven undergraduate student pursuing my Bachelor of Techno
 
 ## 🛠️ Tech Stack
 [![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-yellow)](https://www.javascript.com/)
-[![Python](https://img.shields.io/badge/Python-★★★★☆-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-★★★☆☆-blue)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-★★★☆☆-red)](https://www.java.com/)
 
 [![HTML](https://img.shields.io/badge/HTML-★★★★☆-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
