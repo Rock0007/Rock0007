@@ -16,7 +16,7 @@
 ## 🔥 Stats & Streaks
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rock0007&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=rock0007&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?rock0007=Your_GitHub_Username&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?rock0007=Your_GitHub_rock0007&theme=blue-green)
 
 # 🏆 <span style="color: #f49c10;">GitHub Trophies </span>
 ![](https://github-profile-trophy.vercel.app/?username=rock0007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
