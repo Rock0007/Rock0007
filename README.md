@@ -4,7 +4,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rock0007&color=green) [![GitHub followers](https://img.shields.io/github/followers/rock0007?style=social)](https://github.com/rock0007) 
 
 ### ⚡ Languages & Tools
-- **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript), ![Python](https://img.shields.io/badge/Python), ![Java](https://img.shields.io/badge/Java)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 - **Front-end:** HTML, CSS, Js, Tailwind, React, Bootstrap-5
 - **Back-end:** Node, Express
 - **Databases:** MongoDB, Firebase, MySQL
