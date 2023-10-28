@@ -1,5 +1,6 @@
 ## 👩‍💻 Hello World! I'm Kapil
-![Profile Views](https://komarev.com/ghpvc/?username=rock0007&color=green) [![GitHub followers](https://img.shields.io/github/followers/rock0007?style=social)](https://github.com/rock0007) 
+![Profile Views](https://komarev.com/ghpvc/?username=rock0007&color=green) [![GitHub followers](https://img.shields.io/github/followers/rock0007?style=social)](https://github.com/rock0007)
+
 [![An image of @rock0007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rock0007)](https://holopin.io/@rock0007)
 
 ## ⚡ Languages & Tools
