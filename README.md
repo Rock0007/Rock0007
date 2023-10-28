@@ -11,7 +11,7 @@
 - **Tools:** Git, VS Code, Postman, Docker
 
 ## 🧠 My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rock0007&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rock0007&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!
 - LinkedIn: [A S Kapil](https://www.linkedin.com/in/askapil07/)
