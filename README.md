@@ -15,3 +15,6 @@
 
 ## 📫 Let's Connect!
 - LinkedIn: [A S Kapil](https://www.linkedin.com/in/askapil07/)
+
+# 🏆 <span style="color: #f49c10;">GitHub Trophies </span>
+![](https://github-profile-trophy.vercel.app/?username=rock0007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
