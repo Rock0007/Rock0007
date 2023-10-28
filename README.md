@@ -1,9 +1,9 @@
-# 👩‍💻 Hello World! I'm Kapil
+## 👩‍💻 Hello World! I'm Kapil
 [![An image of @rock0007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rock0007)](https://holopin.io/@rock0007)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rock0007&color=green) [![GitHub followers](https://img.shields.io/github/followers/rock0007?style=social)](https://github.com/rock0007) 
 
-### ⚡ Languages & Tools
+## ⚡ Languages & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 	
@@ -16,11 +16,13 @@
 ## 🔥 Stats & Streaks
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rock0007&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=rock0007&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rock0007&theme=blue-green)
 
-# 🏆 <span style="color: #f49c10;">GitHub Trophies </span>
+## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rock0007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📫 Let's Connect!
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
+<a href="www.linkedin.com/in/askapil07" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
