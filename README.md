@@ -14,7 +14,7 @@
 
 ## ⚡ Languages & Tools
 <a href="https://skillicons.dev" align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=java,python,javascript,react,next,vite,nodejs,vscode,md,git,github,githubactions,html,css,bootstrap,webflow,tailwind,express,firebase,mongodb,mysql,postman,netlify,remix" />
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,tailwind,daisyui,antd,javascript,vite,react,nodejs,expressjs,nodemon,next,jwt,python,java,shellscript,firebase,redis,mongodb,mysql,postman,vscode,codepen,vercel,render,aws" />
   </a>
 
 
