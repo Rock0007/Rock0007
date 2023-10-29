@@ -2,9 +2,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rock0007&color=green) [![GitHub followers](https://img.shields.io/github/followers/rock0007?style=social)](https://github.com/rock0007)
 
 <div>
-    <a href="https://holopin.io/@rock0007"><img src="https://holopin.me/rock0007" width="650" alt="@rock007's Holopin board"/></a>
-    <a href="https://app.daily.dev/casual_kapil"><img src="https://api.daily.dev/devcards/6b8ec2f4b9974a698cc9e261aa0af72c.png?r=8mj" width="150" alt="Rock's Dev Card"/></a>
-<div>
+    <a href="https://holopin.io/@rock0007">
+        <img src="https://holopin.me/rock0007" width="650" alt="@rock007's Holopin board" style="margin-bottom: 3px;">
+    </a>
+    <a href="https://app.daily.dev/casual_kapil">
+        <img src="https://api.daily.dev/devcards/6b8ec2f4b9974a698cc9e261aa0af72c.png?r=8mj" width="150" alt="Rock's Dev Card">
+    </a>
+</div>
+
 
 
 ## ⚡ Languages & Tools
