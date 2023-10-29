@@ -1,8 +1,10 @@
 ## 👩‍💻 Hey there, I'm Kapil
 ![Profile Views](https://komarev.com/ghpvc/?username=rock0007&color=green) [![GitHub followers](https://img.shields.io/github/followers/rock0007?style=social)](https://github.com/rock0007)
 
+[![An image of @rock0007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rock0007)](https://holopin.io/@rock0007)
+
 <div>
-    [![An image of @rock0007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rock0007)](https://holopin.io/@rock0007)
+    
     <a href="https://app.daily.dev/d3nn7"><img src="https://api.daily.dev/devcards/6b8ec2f4b9974a698cc9e261aa0af72c.png?r=8mj" width="150" alt="kapil's Dev Card"/></a>
 <div>
 
