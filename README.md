@@ -1,4 +1,4 @@
-## 👩‍💻 Hello World! I'm Kapil
+## 👩‍💻 Hey there, I'm Kapil
 ![Profile Views](https://komarev.com/ghpvc/?username=rock0007&color=green) [![GitHub followers](https://img.shields.io/github/followers/rock0007?style=social)](https://github.com/rock0007)
 
 [![An image of @rock0007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rock0007)](https://holopin.io/@rock0007)
@@ -21,6 +21,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=rock0007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📫 Let's Connect!
+
 <a href="https://discord.com/users/734108079037087884" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
 </a> <a href="mailto:askapil07@gmail.com" target="_blank">
