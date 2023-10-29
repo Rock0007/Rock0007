@@ -2,8 +2,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rock0007&color=green) [![GitHub followers](https://img.shields.io/github/followers/rock0007?style=social)](https://github.com/rock0007)
 
 <div>
-    <a href="https://holopin.io/@d3nn7"><img src="https://holopin.io/api/user/board?user=d3nn7" width="650" alt="@d3nn7's Holopin board"/></a>
-    <a href="https://app.daily.dev/d3nn7"><img src="https://github.com/d3nn7/d3nn7/blob/master/devcard.svg" width="150" alt="Danny's Dev Card"/></a>
+    <a href="https://holopin.io/@rock0007"><img src="https://holopin.io/api/user/board?user=rock0007" width="650" alt="@rock007's Holopin board"/></a>
+    <a href="https://app.daily.dev/casual_kapil"><img src="https://api.daily.dev/devcards/6b8ec2f4b9974a698cc9e261aa0af72c.png?r=8mj" width="150" alt="Rock's Dev Card"/></a>
 <div>
 
 
