@@ -1,7 +1,10 @@
 ## 👩‍💻 Hey there, I'm Kapil
 ![Profile Views](https://komarev.com/ghpvc/?username=rock0007&color=green) [![GitHub followers](https://img.shields.io/github/followers/rock0007?style=social)](https://github.com/rock0007)
 
-[![An image of @rock0007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rock0007)](https://holopin.io/@rock0007) <a href="https://app.daily.dev/casual_kapil"><img src="https://api.daily.dev/devcards/6b8ec2f4b9974a698cc9e261aa0af72c.png?r=8mj" width="400" alt="Kapil As's Dev Card"/></a>
+<div>
+    <a href="https://holopin.io/rock0007"><img src="https://holopin.io/api/user/board?user=rock0007" width="650" alt="@d3nn7's Holopin board"/></a>
+    <a href="https://app.daily.dev/d3nn7"><img src="https://api.daily.dev/devcards/6b8ec2f4b9974a698cc9e261aa0af72c.png?r=8mj" width="150" alt="kapil's Dev Card"/></a>
+<div>
 
 ## ⚡ Languages & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
