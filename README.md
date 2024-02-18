@@ -1,5 +1,5 @@
 ## 👩‍💻 Hey there, I'm Kapil
-![Profile Views](https://komarev.com/ghpvc/?username=rock0007&color=green) [![GitHub followers](https://img.shields.io/github/followers/rock0007?style=social)](https://github.com/rock0007)
+![Profile Views](https://komarev.com/ghpvc/?username=rock0007&color=green)
 
 <div>
     <a href="https://holopin.io/@rock0007">
@@ -12,7 +12,7 @@
 
 
 
-## ⚡ Languages & Tools
+## ⚡⚡⚡
 <a href="https://skillicons.dev" align="center">
     <img align="center" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,vite,react,nodejs,expressjs,next,python,java,powershell,bash,firebase,redis,mongodb,mysql,vscode,postman,git,github,codepen,vercel,netlify,aws,linux" />
   </a>
