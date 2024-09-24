@@ -19,11 +19,7 @@
 
 ## 📫 Let's Connect!
 
-<a href="https://discord.com/users/734108079037087884" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
-</a> <a href="mailto:askapil07@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-</a> <a href="https://www.linkedin.com/in/askapil07/" target="_blank">
+<a href="https://www.linkedin.com/in/askapil07/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 
